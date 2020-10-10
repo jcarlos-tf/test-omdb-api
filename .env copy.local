@@ -1,0 +1,3 @@
+API_KEY_OMDB=b7a67bc1
+REACT_APP_API_BASE_URL=http://www.omdbapi.com/?apikey=$API_KEY_OMDB&
+REACT_APP_NODE_URL=http://localhost:4000
