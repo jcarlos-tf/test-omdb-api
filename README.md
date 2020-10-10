@@ -23,3 +23,5 @@ You will also see any lint errors in the console.
  ## the frameword that was used for the interface was
  MATERIAL-UI
  https://material-ui.com/es/
+
+## you must define your endpoints in the .env.local file
